@@ -1,7 +1,11 @@
-## Phase 1 – Drive Detection and SMART Health
+On-site SMART verification completed.
 
-This folder contains baseline SMART health evidence captured
-on site prior to RAID and volume creation.
+Actions:
+- Accessed Storage Manager > HDD/SSD
+- Verified all installed drives detected
+- SMART status Normal for all disks
 
-Screenshot:
-- smart-health-baseline.png – All installed drives detected, status Normal
+Evidence:
+https://github.com/bodedun2/CyberSecurity/blob/main/docs/evidence/phase-1-unboxing/docs/evidence/phase-1-smart-health/smart-health-baseline.png
+
+Screenshot captured prior to RAID and volume creation.
